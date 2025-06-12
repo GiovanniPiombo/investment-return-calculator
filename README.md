@@ -65,7 +65,7 @@ Output :
 
 ```
 Final Capital : 47526.55086603624
-Total Invested (%) : 34000.0
+Total Invested : 34000.0
 Profit : 13526.55086603624
 ```
 ![Example Chart](Example.png)
