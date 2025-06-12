@@ -16,7 +16,7 @@ A simple Python application that calculates the growth of an investment over tim
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Giovix/investment-return-calculator.git
+git clone https://github.com/GiovanniPiombo/investment-return-calculator.git
 cd investment-return-calculator
 ```
 
