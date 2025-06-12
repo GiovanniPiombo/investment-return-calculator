@@ -53,6 +53,7 @@ It will also show a chart illustrating the capital growth over time.
 
 ## Example
 
+Input :
 ```
 Initial Deposit : 10000
 Annual Return (%): 5
@@ -60,7 +61,7 @@ Monthly Contribution: 200
 Investment Duration (years): 10
 ```
 
-Results will be :
+Output :
 
 ```
 Final Capital : 47526.55086603624
