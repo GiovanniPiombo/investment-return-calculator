@@ -62,12 +62,13 @@ Investment Duration (years): 10
 
 Results will be :
 
-![Example Chart](Example.png)
 ```
 Final Capital : 47526.55086603624
 Total Invested (%) : 34000.0
 Profit : 13526.55086603624
 ```
+![Example Chart](Example.png)
+
 ## License
 
 This project is licensed under the MIT License.
